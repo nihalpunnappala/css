@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+header{
+    background-color: rgb(19, 24, 24);
+    height: 60px;
+    text-align: center;
+    color: red;
+    font-size: 20px;
+   
+
+}
+
+Nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    background-color: coral;
+
+}
+
+Nav ul li a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    margin: 10px;
+    color: blueviolet;
+    font-size: 20px;
+}
+Nav ul li a:hover{
+    text-decoration: underline;
+    text-shadow: 2px 4px 6px rgb(12, 12, 11);
+}
+
+main{
+    background-color: rgb(190, 228, 144);
+    width: 100%;
+}
+
+.row{
+    display: flex;
+    height: 350px;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.col{
+    margin: 5px;
+    background-color: rgb(120, 60, 177);
+    text-align: justify;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+h1,h2{
+    text-align: center;
+    padding: 20px;
+
+}
+
+footer{
+    background-color: rgb(114, 231, 239);
+    height: 100px;
+}
+
+
+
+footer p{
+    text-align: center;
+    margin: 20px;
+    color: rgb(22, 21, 20);
+    text-decoration: underline;
+}
+
+/* Media query for 400px devices */
+
+@media screen and (max-width: 400px) {
+    *{
+        margin: 0;
+        padding: 0;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    }
+
+    header{
+        width: 400px;
+        background-color: chartreuse;
+        color: white;
+        padding: 0px;
+
+
+    }
+    nav{
+        width: 400px;
+        background-color: brown;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .row{
+        background-color: blanchedalmond;
+        width: 400px;
+        height: 1200px;
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    main{
+        width: 400px;
+
+    }
+
+    .col{
+        height: 600px;
+        width: 350px;
+        border: 3px solid black;
+        margin-left: 23px;
+    }
+}
+    

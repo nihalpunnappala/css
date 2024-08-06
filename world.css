@@ -1,0 +1,76 @@
+
+body{
+    
+    background-color: rgb(168, 16, 16);
+    
+    
+
+}
+
+
+
+
+    
+
+h3{
+    color: rgb(255, 0, 128);
+    text-align: center;
+    
+}
+
+div{
+    float:left;
+   
+    border: solid brown;
+    margin:10px;
+    
+    height: 700px;
+    width: 250px;
+    margin-left: 5px;
+    
+    
+    
+}
+
+#taj{
+
+    background-color: chocolate;
+    
+
+    
+    
+}
+
+#eiffel{
+
+    background-color: green;
+    
+}
+
+#statue{
+    background-color: lightseagreen;
+    
+}
+
+#colo{
+    background-color:lawngreen;
+    
+}
+
+img{
+    width: 200px;
+    border-radius: 20%;
+    border: solid rgb(255, 174, 0);
+    margin-left: 10%;
+    margin-top: 5%;
+    
+    
+}
+
+p{
+color:darkblue;
+width: 180px;
+text-align: center;
+
+
+}

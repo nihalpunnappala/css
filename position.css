@@ -1,0 +1,32 @@
+
+
+.row{
+    background-color:purple;
+    height: 700px;
+    position: relative;
+}
+
+.col{
+    background-color: aqua;
+    height: 300px;
+    width: 200px;
+    margin: 10px;
+    position: absolute;
+}
+
+.col1{
+    margin-left: 250px;
+}
+
+.col2{
+    margin-left: 500px;
+}
+
+.col3{
+    margin-left: 750px;
+}
+
+.col4{
+    margin-left: 1000px;
+}
+

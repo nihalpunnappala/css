@@ -1,0 +1,98 @@
+#s1{
+    
+        background-color: rgb(2, 2, 9);
+        color: white;
+        
+        position: sticky;
+        width: 50%;
+        top: 10px;
+        
+}
+
+#s2{
+    
+    background-color: rgb(1, 1, 11);
+    color: white;
+    
+    position: sticky;
+    width: 50%;
+        top: 10px;
+    
+}
+
+#s3{
+    
+    background-color: rgb(2, 2, 6);
+    color: white;
+    
+    position: sticky;
+    width: 50%;
+        top: 10px;
+    
+}
+
+#s4{
+    
+    background-color: rgb(4, 4, 21);
+    color: white;
+    
+    position: sticky;
+    width: 50%;
+        top: 10px;
+    
+}
+
+#s5{
+    
+    background-color: rgb(2, 2, 19);
+    color: white;
+    
+    position: sticky;
+    width: 50%;
+        top: 10px;
+    
+}
+
+
+#s6{
+    
+    background-color: rgb(3, 3, 15);
+    color: white;
+    
+    position: sticky;
+    width: 50%;
+        top: 10px;
+    
+}
+
+#s7{
+    
+    background-color: rgb(3, 3, 15);
+    color: white;
+    
+    position: sticky;
+    width: 50%;
+        top: 10px;
+    
+}
+
+#s8{
+    
+    background-color: rgb(3, 3, 15);
+    color: white;
+    
+    position: sticky;
+    width: 50%;
+        top: 10px;
+    
+}
+h3{
+    padding: 10px;
+}
+
+li{
+    margin-right: 400px;
+}
+body{
+    height: 1800px;
+}

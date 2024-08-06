@@ -1,0 +1,186 @@
+
+
+body{
+    background-color: black;
+}
+.row1{
+    
+    display: flex;
+    height:130px;
+    margin-left:28%;
+    align-items:center;
+    flex-direction: row;
+     
+
+}
+
+.col{
+    background-color:salmon ;
+    height: 150px;
+    width: 120px ;
+    margin-left: 10px;
+    text-align: center;
+    
+    
+
+}
+
+.col1{
+    background-color: rgb(8, 121, 25);
+    margin-top: 50px;
+}
+
+.col2{
+    background-color: rgb(31, 8, 121);
+    margin-top: 50px;
+}
+
+.col3{
+    background-color: rgb(121, 8, 110);
+    margin-top: 50px;
+}
+
+.col4{
+    background-color: rgb(202, 182, 182);
+    margin-top: 50px;
+}
+
+.col5{
+    background-color: rgb(8, 121, 25);
+    margin-top: 50px;
+}
+
+
+
+
+
+
+.row2{
+    
+    display:flex;
+    align-items: center;
+    flex-direction:row;
+    margin-left:19.5%;
+
+
+}
+
+.co{
+    background-color:salmon ;
+    height: 150px;
+    width: 120px ;
+    margin-left: 10px;
+    
+    
+
+}
+
+.co1{
+    background-color: rgb(121, 55, 8);
+    margin-top: 50px;
+}
+
+.co2{
+    background-color:yellow;
+    margin-top: 50px;
+}
+
+.co3{
+    background-color: rebeccapurple;
+    margin-top: 50px;
+}
+
+.co4{
+    background-color: rgb(19, 130, 174);
+    margin-top: 50px;
+}
+
+.co5{
+    background-color: paleturquoise;
+    margin-top: 50px;
+}
+
+.co6{
+    background-color: peru;
+    margin-top: 50px;
+}
+
+.co7{
+    background-color: seagreen;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+.row3{
+    
+    display: flex;
+    height: 130px;
+    align-items: center;
+    flex-direction: row;
+    margin-left:11%;
+
+}
+
+.co{
+    background-color:salmon ;
+    height: 150px;
+    width: 120px ;
+    margin-left: 10px;
+    
+    
+
+}
+
+
+.c1{
+    background-color: rgb(68, 8, 121);
+    margin-top: 50px;
+}
+
+.c2{
+    background-color:yellow;
+    margin-top: 50px;
+}
+
+.c3{
+    background-color: rebeccapurple;
+    margin-top: 50px;
+}
+
+.c4{
+    background-color: ;
+    margin-top: 50px;
+}
+
+.c5{
+    background-color: red;
+    margin-top: 50px;
+}
+
+.c6{
+    background-color:magenta;
+    margin-top: 50px;
+}
+
+.c7{
+    background-color:brown;
+    margin-top: 50px;
+}
+
+.c8{
+    background-color: rgb(213, 73, 30);
+    margin-top: 50px;
+}
+
+.c9{
+    background-color: rgb(46, 111, 139);
+    margin-top: 50px;
+}
+
+
